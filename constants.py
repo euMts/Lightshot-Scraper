@@ -1,0 +1,2 @@
+achados = []
+encontrados = 0
