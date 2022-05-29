@@ -1,4 +1,5 @@
 # Lightshot Scrapper
+[![license mit](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)<br>
 ## Explicação
 Este script busca por URL's aleatórias da plataforma Lightshot<br>
 Utilização disponível através de **Python**.<br>
